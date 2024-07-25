@@ -154,4 +154,7 @@ git remote show
 git remote -v
 ```
 Команда, которая помогает управлять набором репозиториев, ветви которых отслеживаются.
+
 -v выводит список всех удаленных репозиториев для локального репозитория Git.
+
+![Git + GitHub](Git+GitHub.webp "https://cdn.hashnode.com/res/hashnode/image/upload/v1698950370943/65c46cdc-99c0-4348-b971-483d78605f1d.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp")
